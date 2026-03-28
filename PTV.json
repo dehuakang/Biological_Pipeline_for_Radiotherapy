@@ -1,0 +1,412 @@
+{
+	"PatientName": "xxx",
+	"PatientId": "xxxx",
+	"ExportTime": "2026年03月26日, 18:48:09（小时：分：秒）",
+	"ExportBy": "xx",
+	"DoseType": "plan",
+	"PlanName": "fgmnew",
+	"IsApprove": "APPROVED",
+	"PrescriptionList": [
+		{
+			"BeamGroupName": "BeamGroup1",
+			"Prescription": "设置 100 %剂量线为 1 * 2400 = 2400 cGy, 总剂量为 PTV-GTV 的 95% 体积"
+		}
+	],
+	"DvhData": [
+		{
+			"RoiName": "PTV-GTV",
+			"RoiId": 750740803248238,
+			"RoiStatisticsDoseInfo": {
+				"maxDose": "2858.77 cGy",
+				"minDose": "2385.37 cGy",
+				"meanDose": "2647.91 cGy",
+				"standardDeviation": "124.8 cGy",
+				"doseByVolumeList": [
+					{
+						"relativeVolume": "98%",
+						"dose": "2414.63 cGy"
+					},
+					{
+						"relativeVolume": "95%",
+						"dose": "2449.04 cGy"
+					},
+					{
+						"relativeVolume": "50%",
+						"dose": "2660.21 cGy"
+					},
+					{
+						"relativeVolume": "99%",
+						"dose": "2400.00 cGy"
+					},
+					{
+						"relativeVolume": "2%",
+						"dose": "2850.03 cGy"
+					}
+				],
+				"volumeByDoseList": [
+					{
+						"dose": "1200.00 cGy",
+						"absoluteVolume": "0.39 cm3"
+					},
+					{
+						"dose": "1000.00 cGy",
+						"absoluteVolume": "0.39 cm3"
+					},
+					{
+						"dose": "2280.00 cGy",
+						"absoluteVolume": "0.39 cm3"
+					},
+					{
+						"dose": "400.00 cGy",
+						"absoluteVolume": "0.39 cm3"
+					}
+				]
+			},
+			"RoiStatisticsBaseInfo": {
+				"planningRole": "PTV",
+				"color": "#FF20FFFF",
+				"absoluteVolume": "0.39 cm3",
+				"averageDensity": "1.071 g/cm3",
+				"averageReferenceElectronDensity": 1.058,
+				"roiOverride": "否",
+				"roiFillCavity": "否",
+				"isApproval": "APPROVED",
+				"inGrid": "100%"
+			},
+			"DvhList": [
+				{
+					"dose": "2388.22 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2393.93 cGy",
+					"relativeVolume": "0%"
+				},
+				{
+					"dose": "2399.63 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2405.33 cGy",
+					"relativeVolume": "0.24%"
+				},
+				{
+					"dose": "2411.04 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2416.74 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2422.44 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2428.15 cGy",
+					"relativeVolume": "0%"
+				},
+				{
+					"dose": "2433.85 cGy",
+					"relativeVolume": "0.24%"
+				},
+				{
+					"dose": "2439.55 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2445.26 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2450.96 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2456.66 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2462.37 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2468.07 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2473.78 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2479.48 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2485.18 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2490.89 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2496.59 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2502.29 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2508.00 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2513.70 cGy",
+					"relativeVolume": "2.18%"
+				},
+				{
+					"dose": "2519.40 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2525.11 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2530.81 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2536.51 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2542.22 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2547.92 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2553.63 cGy",
+					"relativeVolume": "2.66%"
+				},
+				{
+					"dose": "2559.33 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2565.03 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2570.74 cGy",
+					"relativeVolume": "2.18%"
+				},
+				{
+					"dose": "2576.44 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2582.14 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2587.85 cGy",
+					"relativeVolume": "0.24%"
+				},
+				{
+					"dose": "2593.55 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2599.25 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2604.96 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2610.66 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2616.36 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2622.07 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2627.77 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2633.48 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2639.18 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2644.88 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2650.59 cGy",
+					"relativeVolume": "0.24%"
+				},
+				{
+					"dose": "2656.29 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2661.99 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2667.70 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2673.40 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2679.10 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2684.81 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2690.51 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2696.21 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2701.92 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2707.62 cGy",
+					"relativeVolume": "2.18%"
+				},
+				{
+					"dose": "2713.33 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2719.03 cGy",
+					"relativeVolume": "0.97%"
+				},
+				{
+					"dose": "2724.73 cGy",
+					"relativeVolume": "2.66%"
+				},
+				{
+					"dose": "2730.44 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2736.14 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2741.84 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2747.55 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2753.25 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2758.95 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2764.66 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2770.36 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2776.06 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2781.77 cGy",
+					"relativeVolume": "0.48%"
+				},
+				{
+					"dose": "2787.47 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2793.18 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2798.88 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2804.58 cGy",
+					"relativeVolume": "3.15%"
+				},
+				{
+					"dose": "2810.29 cGy",
+					"relativeVolume": "1.69%"
+				},
+				{
+					"dose": "2815.99 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2821.69 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2827.40 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2833.10 cGy",
+					"relativeVolume": "1.21%"
+				},
+				{
+					"dose": "2838.80 cGy",
+					"relativeVolume": "1.45%"
+				},
+				{
+					"dose": "2844.51 cGy",
+					"relativeVolume": "0.73%"
+				},
+				{
+					"dose": "2850.21 cGy",
+					"relativeVolume": "1.94%"
+				},
+				{
+					"dose": "2855.91 cGy",
+					"relativeVolume": "0.97%"
+				}
+			]
+		}
+	]
+}
